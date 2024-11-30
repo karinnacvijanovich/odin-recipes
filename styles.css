@@ -1,0 +1,25 @@
+h1 {
+    color: rgb(249, 79, 27);
+    font-size: 34px;
+}
+
+body {
+    text-align: center;
+    font-family: Tahoma, Verdana, sans-serif;
+    list-style-position: inside;
+}
+
+h3,
+h4 {
+    color: rgb(249, 79, 27);
+    font-size: 20px;
+}
+
+ul {
+    background-color: rgb(255, 76, 151);
+    color: rgb(255, 255, 255);
+}
+
+.dont-center {
+    text-align: left;
+}
